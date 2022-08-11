@@ -1,15 +1,26 @@
-0x0E. SQL - More queries
-Description
+0x0E. SQL - More queries 
+
+Description 
+
 What you should learn from this project:
 
 How to create a new MySQL user
+
 How to manage privileges for a user to a database or table
+
 What’s a PRIMARY KEY
+
 What’s a FOREIGN KEY
+
 How to use NOT NULL and UNIQUE constraints
+
 How to retrieve datas from multiple tables in one request
+
 What are subqueries
+
 What are JOIN and UNION
+
+Tasks
 0. My privileges!
 Write a script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server.
 1. Root user
@@ -52,6 +63,7 @@ Import the database dump from hbtn_0d_tvshows to your MySQL server: download (sa
 Import the database hbtn_0d_tvshows_rate dump to your MySQL server: download
 20. Best genre
 Import the database dump from hbtn_0d_tvshows_rate to your MySQL server: download (same as 102-rating_shows.sql)
+
 Author
 Samson Westcott - samsonwestcott
 
